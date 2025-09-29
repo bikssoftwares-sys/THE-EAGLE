@@ -14,65 +14,65 @@ export default function CorporatePrograms() {
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-4xl mx-auto">
           <div className="mb-12">
-            <h2 className="text-3xl font-bold text-blue-900 mb-6">Our Corporate Offerings</h2>
+            <h2 className="text-3xl font-bold text-blue-900 mb-6">Marketplace Leadership Programs</h2>
             <div className="space-y-6">
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Executive Leadership Development</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Kingdom Business Ethics Training</h3>
                 <p className="text-gray-700">
-                  Comprehensive programs for senior leaders focusing on ethical decision-making, servant leadership, and strategic vision aligned with Kingdom principles.
+                  Workshops equipping executives with biblical principles for ethical commerce, anti-corruption strategies, and responsible stewardship in the marketplace. Addressing the separation of faith from business by integrating Kingdom values into corporate decision-making.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Corporate Ethics & Integrity Training</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Servant Leadership for Executives</h3>
                 <p className="text-gray-700">
-                  Workshops on building ethical corporate cultures, anti-corruption measures, and responsible business practices that honor God and serve communities.
+                  Advanced training in Christ-centered leadership, focusing on humility, integrity, and service-oriented management. Designed for C-suite leaders to model godly influence in corporate environments.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Innovation & Entrepreneurship Bootcamps</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Innovation & Tech Integration Bootcamps</h3>
                 <p className="text-gray-700">
-                  Training programs that equip professionals with skills in innovation, entrepreneurship, and technology while maintaining ethical business standards.
+                  Hands-on sessions teaching corporate teams to leverage technology and innovation for ethical business growth, with emphasis on digital transformation that aligns with Kingdom purposes and societal good.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Corporate Retreats & Team Building</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Corporate Governance Workshops</h3>
                 <p className="text-gray-700">
-                  Transformational retreats that strengthen teams, foster Kingdom values in the workplace, and develop leaders who serve their organizations and communities.
+                  Training on integrating righteous governance principles into corporate structures, compliance, and policy-making, bridging business practices with biblical justice and accountability.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Mentorship Programs</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Mentorship & Succession Planning</h3>
                 <p className="text-gray-700">
-                  Structured mentorship initiatives connecting experienced professionals with emerging leaders, fostering knowledge transfer and ethical leadership development.
+                  Programs connecting seasoned Kingdom-minded executives with rising leaders, ensuring transfer of wisdom, ethical practices, and a legacy of transformation in the marketplace.
                 </p>
               </div>
             </div>
           </div>
           <div className="mb-12">
-            <h2 className="text-3xl font-bold text-blue-900 mb-6">Why Partner With Us?</h2>
+            <h2 className="text-3xl font-bold text-blue-900 mb-6">Why Partner With TEG?</h2>
             <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Kingdom Impact</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Restore Kingdom Values in Business</h3>
                 <p className="text-gray-700">
-                  Transform your corporate culture with biblical principles that enhance employee engagement and ethical business practices.
+                  Address the faith-business divide by equipping your team to operate with integrity, wisdom, and innovation, creating ethical workplaces that honor God.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Leadership Excellence</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Build Transformational Leaders</h3>
                 <p className="text-gray-700">
-                  Develop leaders who excel in their roles while maintaining integrity and serving their communities with excellence.
+                  Develop executives who lead like eagles — soaring above compromise and influencing marketplace, governance, and technology with godly principles.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Innovation with Purpose</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Drive Purposeful Innovation</h3>
                 <p className="text-gray-700">
-                  Foster innovation that creates lasting solutions for societal challenges while maintaining profitable business models.
+                  Harness technology and entrepreneurship to solve Africa's challenges, ensuring business growth aligns with Kingdom advancement and societal restoration.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Community Transformation</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Foster National Transformation</h3>
                 <p className="text-gray-700">
-                  Build partnerships that extend your corporate social responsibility into meaningful community development and nation-building.
+                  Partner to fill the leadership vacuum, creating ripple effects of righteous influence in economy, policy, and innovation across Africa.
                 </p>
               </div>
             </div>

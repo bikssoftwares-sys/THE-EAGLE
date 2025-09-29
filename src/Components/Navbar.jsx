@@ -17,12 +17,13 @@ const Navbar = () => {
   const [activeDropdown, setActiveDropdown] = useState(null);
 
   const menuItems = {
-    'About Us': ['Our Story & Vision', 'Our Core Values', 'Our Team', 'FAQs'],
-    'Programs': ['Campus Programs', 'Corporate Programs', 'Governance & Politics Programs', 'All Programs Overview'],
-    'Get Involved': ['Become a Member', 'Partner With Us', 'Volunteer', 'Mentor / Be Mentored'],
-    'Blog & Stories': ['All Articles', 'Stories of Impact', 'Thought Leadership', 'Multimedia'],
-    'Events': ['Upcoming Events', 'Past Events', 'Flagship Events'],
-    'Shop': ['All Products', 'Merchandise', 'Books & Resources', 'Support Packs']
+    'About Us': ['Our Story', 'Vision & Mission', 'Core Values', 'Who We Are', 'FAQs'],
+    'Programs': ['Campus Programs', 'Corporate Programs', 'Political & Governance Programs', 'Cross-Cutting Activities'],
+    'Get Involved': ['Become a Member', 'Partner With Us', 'Volunteer', 'Mentor Be Mentored'],
+    'Blog & Stories': ['Stories of Impact', 'Thought Leadership', 'Multimedia Features'],
+    'Events': ['Flagship Annual Events', 'Ongoing Programs', 'Upcoming Events'],
+    'Shop': ['Movement Merchandise', 'Kingdom Resources', 'Media Learning Products', 'Support Packs'],
+    'Partners': ['Our Strategic Partners', 'Become a Partner']
   };
 
   const handleDropdownToggle = (item) => {
@@ -35,10 +36,10 @@ const Navbar = () => {
       <div className="socials-container text-center flex justify-around bg-[#02183b] py-2">
         <div className="location flex gap-4">
           <p className="address">
-            Phone: +123 456 7890 
+            Phone: +254 796 808 883
           </p>
           <p className="address">
-            Address: 123 Main St, City, Country
+            Address: P.O. Box 22272, Nairobi, Kenya
           </p>
         </div>
         <div className="social-icons gap-4 flex">

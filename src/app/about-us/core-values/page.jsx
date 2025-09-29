@@ -15,40 +15,53 @@ export default function CoreValues() {
         <div className="max-w-4xl mx-auto">
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-semibold text-blue-900 mb-4">Kingdom First</h3>
-              <p className="text-gray-700">
-                We prioritize God's Kingdom agenda above all else. Our leadership is rooted in biblical principles and Kingdom values.
+              <h3 className="text-xl font-semibold text-blue-900 mb-4">Kingdom Integrity</h3>
+              <p className="text-gray-700 mb-2">
+                We uphold truth, righteousness, and ethical standards in every sphere of influence.
               </p>
-            </div>
-            <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-semibold text-blue-900 mb-4">Integrity</h3>
-              <p className="text-gray-700">
-                We lead with unwavering integrity, transparency, and ethical standards in all our dealings and decisions.
-              </p>
-            </div>
-            <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-semibold text-blue-900 mb-4">Excellence</h3>
-              <p className="text-gray-700">
-                We pursue excellence in everything we do, setting high standards for ourselves and those we mentor.
-              </p>
-            </div>
-            <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-semibold text-blue-900 mb-4">Innovation</h3>
-              <p className="text-gray-700">
-                We embrace creativity and innovation to solve problems and create lasting solutions for our communities.
-              </p>
+              <p className="text-sm italic text-gray-600">Proverbs 10:9 – "Whoever walks in integrity walks securely."</p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-semibold text-blue-900 mb-4">Servant Leadership</h3>
-              <p className="text-gray-700">
-                We lead by serving others, putting the needs of our communities and nations above personal gain.
+              <p className="text-gray-700 mb-2">
+                We model leadership after Christ — serving people, not ruling over them.
               </p>
+              <p className="text-sm italic text-gray-600">Mark 10:45 – "For even the Son of Man did not come to be served, but to serve…"</p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-semibold text-blue-900 mb-4">Unity</h3>
-              <p className="text-gray-700">
-                We foster unity across generations, sectors, and backgrounds to build a stronger movement for transformation.
+              <h3 className="text-xl font-semibold text-blue-900 mb-4">Excellence</h3>
+              <p className="text-gray-700 mb-2">
+                We pursue excellence in all endeavors, reflecting the greatness of our Creator.
               </p>
+              <p className="text-sm italic text-gray-600">Colossians 3:23 – "Whatever you do, work at it with all your heart, as working for the Lord."</p>
+            </div>
+            <div className="bg-white p-6 rounded-lg shadow-lg">
+              <h3 className="text-xl font-semibold text-blue-900 mb-4">Innovation with Purpose</h3>
+              <p className="text-gray-700 mb-2">
+                We embrace creativity and technology as tools to solve societal problems and advance God’s Kingdom.
+              </p>
+              <p className="text-sm italic text-gray-600">Proverbs 8:12 – "I, wisdom, dwell together with prudence; I possess knowledge and discretion."</p>
+            </div>
+            <div className="bg-white p-6 rounded-lg shadow-lg">
+              <h3 className="text-xl font-semibold text-blue-900 mb-4">Community & Collaboration</h3>
+              <p className="text-gray-700 mb-2">
+                We build strong, supportive communities that foster mentorship, unity, and collective impact.
+              </p>
+              <p className="text-sm italic text-gray-600">Ecclesiastes 4:9 – "Two are better than one, because they have a good return for their labor."</p>
+            </div>
+            <div className="bg-white p-6 rounded-lg shadow-lg">
+              <h3 className="text-xl font-semibold text-blue-900 mb-4">Transformation</h3>
+              <p className="text-gray-700 mb-2">
+                We exist to bring lasting change in individuals, organizations, and nations through Kingdom influence.
+              </p>
+              <p className="text-sm italic text-gray-600">Romans 12:2 – "Be transformed by the renewing of your mind…"</p>
+            </div>
+            <div className="bg-white p-6 rounded-lg shadow-lg md:col-span-2">
+              <h3 className="text-xl font-semibold text-blue-900 mb-4">Visionary Courage</h3>
+              <p className="text-gray-700 mb-2">
+                We are bold, like eagles, to soar above fear and mediocrity in pursuit of God’s calling.
+              </p>
+              <p className="text-sm italic text-gray-600">Joshua 1:9 – "Be strong and courageous. Do not be afraid; do not be discouraged…"</p>
             </div>
           </div>
           <div className="mt-12 text-center">

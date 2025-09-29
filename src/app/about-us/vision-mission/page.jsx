@@ -16,22 +16,13 @@ export default function VisionMission() {
           <div className="mb-12">
             <h2 className="text-3xl font-bold text-blue-900 mb-6">Our Vision</h2>
             <p className="text-lg text-gray-700 mb-4">
-              To raise 10,000 Kingdom leaders in the next 5 years who will soar above compromise and transform nations through ethical leadership, innovation, and service.
-            </p>
-            <p className="text-lg text-gray-700">
-              We envision a generation of eagles rising in marketplace, governance, and technology — leading with integrity, wisdom, and godly influence to restore righteousness in Africa and beyond.
+              To raise a generation of Kingdom-minded leaders who soar like eagles and transform nations through integrity, innovation, and godly influence in the marketplace, governance, and technology.
             </p>
           </div>
           <div className="mb-12">
             <h2 className="text-3xl font-bold text-blue-900 mb-6">Our Mission</h2>
             <p className="text-lg text-gray-700 mb-4">
-              To empower young men and women to take their rightful place in the marketplace, politics & governance, and technology spaces — restoring godly leadership in Africa and beyond.
-            </p>
-            <p className="text-lg text-gray-700 mb-4">
-              Through mentorship, training, and community, we equip emerging leaders with the spiritual, intellectual, and practical tools needed to excel in their spheres of influence.
-            </p>
-            <p className="text-lg text-gray-700">
-              We believe that when eagles rise, nations are transformed. Our mission is to cultivate a movement of Kingdom leaders who lead with purpose, integrity, and excellence.
+              To mentor, equip, and empower men and women with Kingdom values, leadership skills, and innovative capacity so they can influence society’s key pillars — business, governance, and technology — and restore godly order in nations.
             </p>
           </div>
           <div className="text-center">

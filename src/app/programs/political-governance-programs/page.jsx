@@ -14,62 +14,68 @@ export default function PoliticalGovernancePrograms() {
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-4xl mx-auto">
           <div className="mb-12">
-            <h2 className="text-3xl font-bold text-blue-900 mb-6">School of Influence</h2>
+            <h2 className="text-3xl font-bold text-blue-900 mb-6">Governance & Policy Programs</h2>
             <p className="text-lg text-gray-700 mb-6">
-              Our flagship governance training program that equips emerging politicians, civil servants, and community leaders with the knowledge, skills, and character needed for righteous governance.
+              Equipping leaders to restore godly governance in Africa, addressing the leadership vacuum through Kingdom-centered training in politics, policy, and public administration.
             </p>
             <div className="space-y-6">
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Leadership & Governance Training</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">School of Influence</h3>
                 <p className="text-gray-700">
-                  Comprehensive courses on public policy, ethical leadership, anti-corruption measures, and servant leadership in government positions.
+                  Comprehensive training for emerging politicians, civil servants, and community leaders in righteous governance, ethical leadership, and Kingdom-centered policy development. Focus on biblical models of leadership like Joseph and Daniel.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Policy Development Workshops</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Policy Advocacy & Reform Bootcamps</h3>
                 <p className="text-gray-700">
-                  Training in policy analysis, legislative processes, and developing Kingdom-centered policies that serve communities and honor God.
+                  Hands-on workshops teaching policy analysis, legislative processes, and advocacy for justice, transparency, and community welfare. Participants learn to develop and implement policies that honor God and serve people.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Mentorship for Emerging Politicians</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Anti-Corruption & Integrity Training</h3>
                 <p className="text-gray-700">
-                  One-on-one mentorship connecting aspiring leaders with experienced politicians and governance experts who model integrity and wisdom.
+                  Specialized programs addressing corruption in governance, teaching accountability, transparency, and ethical decision-making. Equips leaders to combat systemic corruption and establish righteous systems.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Community Leadership Programs</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Civic Engagement & Community Leadership</h3>
                 <p className="text-gray-700">
-                  Training for local leaders, council members, and community influencers on ethical governance and community development.
+                  Training for local leaders, council members, and community influencers on participatory governance, community development, and mobilizing citizens for positive change.
+                </p>
+              </div>
+              <div className="bg-white p-6 rounded-lg shadow-lg">
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Governance Mentorship Network</h3>
+                <p className="text-gray-700">
+                  One-on-one mentorship connecting aspiring leaders with experienced politicians and governance experts who model integrity, wisdom, and servant leadership in public service.
                 </p>
               </div>
             </div>
           </div>
           <div className="mb-12">
-            <h2 className="text-3xl font-bold text-blue-900 mb-6">Our Approach</h2>
+            <h2 className="text-3xl font-bold text-blue-900 mb-6">Kingdom Governance Framework</h2>
             <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Biblical Foundation</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Biblical Justice & Righteousness</h3>
                 <p className="text-gray-700">
-                  All training is rooted in biblical principles of justice, righteousness, and servant leadership as exemplified by leaders like Joseph and Daniel.
+                  Training rooted in Proverbs 29:2 — "When the righteous are in authority, the people rejoice." Emphasis on justice, fairness, and protection of the vulnerable.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Practical Skills</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Servant Leadership Model</h3>
                 <p className="text-gray-700">
-                  Participants learn practical governance skills including policy development, public administration, and ethical decision-making.
+                  Following Christ's example (Mark 10:45), leaders learn to serve rather than rule, putting community needs above personal gain and power.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Character Development</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Integrity & Accountability</h3>
                 <p className="text-gray-700">
-                  Emphasis on developing the character qualities needed for leadership: integrity, wisdom, courage, and compassion.
+                  Developing character qualities of honesty, transparency, and accountability to God and people, with systems for ongoing evaluation and correction.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Community Impact</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Transformational Impact</h3>
                 <p className="text-gray-700">
-                  Training focuses on creating policies and governance practices that bring transformation and blessing to communities.
+                  Focus on policies and governance practices that bring lasting transformation, addressing root causes of poverty, injustice, and underdevelopment.
                 </p>
               </div>
             </div>

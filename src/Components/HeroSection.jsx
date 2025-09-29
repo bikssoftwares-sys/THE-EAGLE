@@ -6,7 +6,7 @@ const HeroSection = () => {
   const [isVisible, setIsVisible] = useState(false);
   const sectionRef = useRef(null);
   
-  const fullText = "Raising Kingdom Leaders for Marketplace, Governance, and Technology Transformation. Empowering a generation to rise with integrity, wisdom, and innovation.";
+  const fullText = "The Eagle Generation (TEG) is a visionary Kingdom-driven association committed to raising leaders who will transform society by influencing the marketplace, politics & governance, and technology spaces with integrity, wisdom, and innovation. We exist to address a critical leadership gap in Africa and beyond: the absence of Kingdom-minded leaders in positions of influence. Over the years, the separation of faith from the spheres of politics, governance, and business has created a vacuum where corruption, moral compromise, and short-term self-interest thrive. The Eagle Generation seeks to fill this void by equipping men and women to rise as marketplace captains, political leaders, and innovators who embody godly values.";
   
   const stats = [
     { value: 10000, label: 'Leaders to Train', suffix: '+' },

@@ -22,38 +22,44 @@ export default function CampusPrograms() {
             <h2 className="text-3xl font-bold text-blue-900 mb-6">Our Initiatives</h2>
             <div className="space-y-6">
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Campus Mentorship Circles</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Marketplace Mentorship</h3>
                 <p className="text-gray-700">
-                  Weekly mentorship sessions where students connect with Kingdom leaders in marketplace, governance, and technology. Topics include leadership development, ethical decision-making, and career guidance.
+                  Equipping students with Kingdom principles for ethical business leadership, entrepreneurship, and marketplace influence. Sessions cover integrity in commerce, wealth creation for Kingdom purposes, and ethical decision-making in corporate environments.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Innovation Bootcamps</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Governance & Policy Bootcamps</h3>
                 <p className="text-gray-700">
-                  Hands-on workshops teaching students to develop solutions for community challenges. Focus on technology, entrepreneurship, and social innovation with Kingdom values.
+                  Training future leaders in godly governance, public policy, and civic engagement. Students learn to advocate for justice, transparency, and righteous leadership in political systems, drawing from biblical models of servant leadership.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Leadership Development Programs</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Technology Innovation Labs</h3>
                 <p className="text-gray-700">
-                  Comprehensive training in servant leadership, public speaking, project management, and ethical governance. Students learn to lead with integrity and wisdom.
+                  Hands-on coding, AI, and digital innovation workshops where students develop tech solutions for societal challenges. Emphasis on using technology as a tool for Kingdom advancement, ethical AI, and digital stewardship.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Campus Clubs & Chapters</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Integrated Leadership Retreats</h3>
                 <p className="text-gray-700">
-                  Active student-led clubs in Kenyan universities organizing events, discussions, and community service projects. Building networks of Kingdom-minded leaders.
+                  Immersive retreats combining spiritual formation, leadership skills, and cross-pillar collaboration. Students from business, politics, and tech streams work together on real-world projects that advance Kingdom transformation.
+                </p>
+              </div>
+              <div className="bg-white p-6 rounded-lg shadow-lg">
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Eagle Chapters Network</h3>
+                <p className="text-gray-700">
+                  Student-led chapters in Kenyan universities (and expanding regionally) hosting debates, prayer meetings, community outreach, and peer mentorship. Building a network of young eagles committed to holistic national transformation.
                 </p>
               </div>
             </div>
           </div>
           <div className="mb-12">
-            <h2 className="text-3xl font-bold text-blue-900 mb-6">Target Group</h2>
+            <h2 className="text-3xl font-bold text-blue-900 mb-6">Target Group & Impact</h2>
             <p className="text-lg text-gray-700 mb-4">
-              Our campus programs target undergraduate and graduate students across Kenyan universities who are passionate about making a difference in their communities and nations.
+              Undergraduate and postgraduate students across Kenyan universities who are called to influence the marketplace, governance, and technology spheres with Kingdom values.
             </p>
-            <p className="text-lg text-gray-700">
-              We welcome students from all disciplines — business, technology, social sciences, humanities — who desire to lead with Kingdom principles and contribute to Africa's transformation.
+            <p className="text-lg text-gray-700 mb-4">
+              We target 50+ active campus chapters, training 5,000+ students annually to become ethical leaders who bridge faith and profession, restoring godly order in Africa.
             </p>
           </div>
           <div className="text-center">

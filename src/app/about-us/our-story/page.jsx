@@ -16,28 +16,22 @@ export default function OurStory() {
           <div className="mb-12">
             <h2 className="text-3xl font-bold text-blue-900 mb-6">The Beginning</h2>
             <p className="text-lg text-gray-700 mb-4">
-              The Eagle Generation was born out of a divine calling to raise Kingdom leaders who would transform Africa and beyond. Founded in Kenya, our movement started with a small group of young professionals and students who shared a vision for ethical leadership in marketplace, governance, and technology.
+              The Eagle Generation was birthed out of a deep concern for the state of leadership in Africa, particularly in Kenya, where the spheres of the marketplace, politics & governance, and technology have long been divorced from Kingdom values.
             </p>
             <p className="text-lg text-gray-700 mb-4">
-              Recognizing the gap between the potential of young Africans and the leadership challenges facing our continent, we committed ourselves to mentorship, training, and community-building that would equip the next generation to soar above compromise.
+              For decades, society has operated under the assumption that faith belongs only within the walls of the church, while business, politics, and innovation remain "secular" domains. This separation has created a painful leadership vacuum: a lack of men and women who embody Kingdom principles such as integrity, justice, servant leadership, and innovation rooted in godly wisdom.
+            </p>
+            <p className="text-lg text-gray-700 mb-4">
+              The result has been devastating: corruption, injustice, and poor leadership have hindered national progress and left citizens disillusioned. Yet the Bible teaches in Proverbs 29:2 that "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn."
             </p>
           </div>
           <div className="mb-12">
-            <h2 className="text-3xl font-bold text-blue-900 mb-6">Growth and Impact</h2>
+            <h2 className="text-3xl font-bold text-blue-900 mb-6">Our Mission</h2>
             <p className="text-lg text-gray-700 mb-4">
-              What began as informal mentorship circles has grown into a comprehensive movement with active campus clubs in Kenyan universities, corporate training programs, governance workshops, and annual flagship events like the Eagles Summit and Hackathon.
+              The Eagle Generation is therefore a restorative movement — seeking to realign leadership in Africa back to divine order, where leaders in governance, business, and innovation operate as Kingdom ambassadors. Our mission is to raise a new breed of "eagle leaders" who soar above compromise, see farther than the ordinary, and bring transformation to their communities and nations.
             </p>
             <p className="text-lg text-gray-700 mb-4">
-              We've trained thousands of students and professionals, facilitated strategic partnerships with corporate and technology leaders, and built a community of Kingdom-minded leaders committed to transformation.
-            </p>
-          </div>
-          <div className="mb-12">
-            <h2 className="text-3xl font-bold text-blue-900 mb-6">Looking Forward</h2>
-            <p className="text-lg text-gray-700 mb-4">
-              Today, The Eagle Generation stands at the threshold of even greater impact. With our vision to raise 10,000 leaders in the next 5 years, we're expanding our programs, strengthening partnerships, and innovating new ways to equip emerging leaders.
-            </p>
-            <p className="text-lg text-gray-700">
-              Our story is one of faith, perseverance, and transformation. We believe that when eagles rise, nations are changed. Join us as we continue to write this story together.
+              This is not just a Kenyan dream — it is a continental and global vision: to see Africa rise with a generation of Kingdom leaders who will influence nations, rebuild foundations, and establish godly governance in every sphere of society.
             </p>
           </div>
           <div className="text-center">

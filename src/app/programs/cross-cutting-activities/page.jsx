@@ -14,64 +14,62 @@ export default function CrossCuttingActivities() {
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-4xl mx-auto">
           <div className="mb-12">
-            <h2 className="text-3xl font-bold text-blue-900 mb-6">Annual Eagles Summit</h2>
+            <h2 className="text-3xl font-bold text-blue-900 mb-6">Cross-Cutting Initiatives</h2>
             <p className="text-lg text-gray-700 mb-6">
-              Our flagship annual gathering that brings together leaders from all sectors for worship, fellowship, and strategic planning. The Eagles Summit unites generations under one vision for Kingdom transformation.
+              Unifying activities that integrate marketplace, governance, and technology pillars, fostering collaboration and holistic Kingdom transformation across Africa.
             </p>
-            <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-semibold text-blue-900 mb-3">Summit Highlights</h3>
-              <ul className="text-gray-700 space-y-2">
-                <li>• Plenary sessions with keynote speakers on leadership and transformation</li>
-                <li>• Worship and prayer gatherings that inspire and unite</li>
-                <li>• Breakout sessions for sector-specific discussions and networking</li>
-                <li>• Strategic planning for the movement's next phase</li>
-                <li>• Awards and recognition for outstanding Kingdom leaders</li>
-                <li>• Fellowship meals and community building activities</li>
-              </ul>
-            </div>
-          </div>
-          <div className="mb-12">
-            <h2 className="text-3xl font-bold text-blue-900 mb-6">Digital & Technology Initiatives</h2>
             <div className="space-y-6">
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Digital Leadership Academy</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Annual Eagles Summit</h3>
                 <p className="text-gray-700">
-                  Online courses and resources for leaders who cannot attend in-person programs. Topics include digital transformation, online community building, and virtual leadership.
+                  Flagship gathering uniting leaders from business, politics, and technology for worship, strategic planning, and cross-sector collaboration. Features keynote speakers, breakout sessions, and fellowship that strengthen the movement's unity and vision.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Technology Innovation Labs</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Integrated Leadership Retreats</h3>
                 <p className="text-gray-700">
-                  Collaborative spaces where tech professionals and entrepreneurs develop solutions for community challenges using Kingdom principles.
+                  Immersive retreats combining spiritual formation with cross-pillar collaboration. Leaders from marketplace, governance, and technology streams work together on real-world projects that advance holistic national transformation.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Digital Publications</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Technology for Transformation Labs</h3>
                 <p className="text-gray-700">
-                  Regular newsletters, thought leadership articles, and digital resources that amplify Kingdom voices and share best practices in ethical leadership.
+                  Innovation hubs where Kingdom-minded tech professionals develop digital solutions for governance challenges, business ethics tools, and community development platforms that bridge faith and technology.
+                </p>
+              </div>
+              <div className="bg-white p-6 rounded-lg shadow-lg">
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Policy-Business Dialogue Forums</h3>
+                <p className="text-gray-700">
+                  Regular forums bringing together business leaders, policymakers, and technologists to discuss ethical governance, responsible business practices, and technology's role in national development.
                 </p>
               </div>
             </div>
           </div>
           <div className="mb-12">
-            <h2 className="text-3xl font-bold text-blue-900 mb-6">Publications & Research</h2>
+            <h2 className="text-3xl font-bold text-blue-900 mb-6">Knowledge & Research Hub</h2>
             <div className="space-y-6">
               <div className="bg-white p-6 rounded-lg shadow-lg">
                 <h3 className="text-xl font-semibold text-blue-900 mb-3">Kingdom Leadership Journal</h3>
                 <p className="text-gray-700">
-                  Quarterly publication featuring articles on ethical leadership, governance, and marketplace transformation from Kingdom perspectives.
+                  Quarterly publication featuring research and articles on ethical leadership across marketplace, governance, and technology spheres, providing Kingdom-centered insights for African transformation.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Research & Policy Papers</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Digital Learning Platform</h3>
                 <p className="text-gray-700">
-                  In-depth research on governance, economic development, and social issues with Kingdom-centered recommendations for policymakers and leaders.
+                  Online academy offering courses on Kingdom business ethics, righteous governance, ethical AI, and digital stewardship. Includes virtual mentorship and community forums for continuous learning.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold text-blue-900 mb-3">Case Studies & Best Practices</h3>
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Impact Research & Case Studies</h3>
                 <p className="text-gray-700">
-                  Documentation of successful Kingdom leadership initiatives, providing models and inspiration for others to follow.
+                  Documentation and analysis of successful Kingdom leadership initiatives, providing evidence-based models for scaling ethical leadership across sectors and nations.
+                </p>
+              </div>
+              <div className="bg-white p-6 rounded-lg shadow-lg">
+                <h3 className="text-xl font-semibold text-blue-900 mb-3">Thought Leadership Series</h3>
+                <p className="text-gray-700">
+                  Regular webinars, podcasts, and publications amplifying Kingdom voices on critical issues facing Africa, from corruption to innovation, fostering public discourse on ethical leadership.
                 </p>
               </div>
             </div>
