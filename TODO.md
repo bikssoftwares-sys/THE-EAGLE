@@ -1,4 +1,4 @@
-# Implementation Plan for The Eagle Generation Website
+den# Implementation Plan for The Eagle Generation Website
 
 ## Overview
 This TODO tracks the step-by-step implementation of the full Next.js website based on the provided content. We will fix existing files, create top-level pages where needed (e.g., /donate, /contact, /gallery), and implement nested routes for dropdown navigation (e.g., /about-us/who-we-are). All pages will use static content from the task, Tailwind CSS for styling, and include the Navbar component. Content will match exactly, with emojis, scriptures, and links.
@@ -55,6 +55,11 @@ This TODO tracks the step-by-step implementation of the full Next.js website bas
 - [x] src/app/partners/become-a-partner/page.jsx: Why Partner, How to Become One, CTA.
 
 ### 10. Final Checks
+### 10. Final Checks
+- [x] Add consistent footer if needed (not in task, but optional).
+- [x] Verify links in Navbar match created routes.
+- [x] Test with `npm run dev` and browser_action for rendering.
+- [x] Update TODO.md as steps complete.
 - [ ] Ensure all pages import and render Navbar at top.
 - [ ] Add consistent footer if needed (not in task, but optional).
 - [ ] Verify links in Navbar match created routes.
